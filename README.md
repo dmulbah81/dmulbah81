@@ -8,8 +8,7 @@
 
 - [CompTIA Security+](https://www.credly.com/badges/873bc6db-36be-4207-a646-851fd6ecdacc/linked_in_profile))
 - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/5d540a08-79c8-4df1-a45d-619e2fa97c8a/linked_in_profile))
-- [AWS Certified Cloud Practioner](https://www.credly.com/badges/d27c0b2b-cba9-47c1-88b7-a5b8968a8a08/linked_in_profile](https://www.credly.com/badges/d27c0b2b-cba9-47c1-88b7-a5b8968a8a08/linked_in_profile)))
-
+- [AWS Certified Cloud Practioner](https://www.credly.com/badges/d27c0b2b-cba9-47c1-88b7-a5b8968a8a08/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 

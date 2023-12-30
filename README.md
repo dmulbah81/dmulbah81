@@ -4,7 +4,7 @@
 
 
 
-<h2>📺 Certifications</h2>
+<h2>🎓 Certifications</h2>
 
 - [CompTIA Security+]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://www.credly.com/badges/873bc6db-36be-4207-a646-851fd6ecdacc/linked_in_profile))
 - [Cisco Certified Network Associate (CCNA)]([https://www.youtube.com/watch?v=uHy3oM7NnoU](https://www.credly.com/badges/5d540a08-79c8-4df1-a45d-619e2fa97c8a/linked_in_profile))

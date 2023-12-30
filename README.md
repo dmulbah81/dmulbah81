@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel <br/><a href="https://github.com/dmulbah81">Cybersecurity Enthusiast</a>
+<h1>Hi, I'm Daniel <br/><a href="https://github.com/dmulbah81">Aspiring Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
